@@ -1,17 +1,17 @@
 
 <div align="center">
 <pre>
- _     _    __________  _____
+ _     _    __________  _____ 
 | |   | |  | _  _  _ ||_   _|
 | |__ | |  | | | | | |  | |  
 |__  || |  | | | | | |  | |  
    | ||_|  |_| |_| |_|  |_|  
-   |_|
+   |_|                       
   LAZARENKO ALEXEY :: DEVOPS & SYSADMIN
 </pre>
 </div>
 
-```
+```text
 [root@alexey ~]# cat /var/log/user_profile.log
 ============================================================
  USER     : lazarenko_alexey
@@ -22,7 +22,7 @@
 ============================================================
 ```
 
-```
+```text
 [root@alexey ~]# ls -la /usr/bin/skills/
 SKILL                        LEVEL         PROFICIENCY
 ----------------------------------------------------------
@@ -37,7 +37,7 @@ Python                       [####......] Learning
 Git / GitHub                 [#######...] Advanced
 ```
 
-```
+```text
 [root@alexey ~]# netstat -an | grep ESTABLISHED
 tcp  TELEGRAM  @Lleshaav        https://t.me/Lleshaav
 tcp  EMAIL     yandex.ru        al3x1234512345@yandex.ru
@@ -46,14 +46,6 @@ tcp  GITHUB    github.com       github.com/zefri1
 
 ---
 
-```
-[root@alexey ~]# ./snake --eat-contributions
-```
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zefri1/zefri1/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zefri1/zefri1/output/snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/zefri1/zefri1/output/snake.svg" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zefri1&theme=terminal&hide_border=true&background=0D1117" alt="GitHub streak" />
 </div>
